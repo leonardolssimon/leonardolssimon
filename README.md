@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardolssimon&label=Profile%20views&color=0e75b6&style=flat" alt="leonardolssimon" /> </p>
 
-- 🌱 I’m currently learning **vue, python**
+- 🌱 I’m currently learning **rust**
 
 - 💬 Ask me about **C, python, vue, frontend**
 
