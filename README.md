@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardolssimon&label=Profile%20views&color=0e75b6&style=flat" alt="leonardolssimon" /> </p>
 
-- 🌱 I’m currently learning **rust**
+- 🌱 I’m currently learning **machine learning**
 
-- 💬 Ask me about **C, python, vue, frontend**
+- 💬 Ask me about **C, python, machine learning**
 
 - 📫 How to reach me **leonardo.luisimon@gmail.com**
 
