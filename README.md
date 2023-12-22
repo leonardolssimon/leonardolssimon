@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonardo</h1>
-<h3 align="center">I'm a developer passionate about technology and currently focusing on frontend.</h3>
+<h3 align="center">I'm a engineer and developer passionate about technology and currently focusing on Java and Embedded Systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardolssimon&label=Profile%20views&color=0e75b6&style=flat" alt="leonardolssimon" /> </p>
 
