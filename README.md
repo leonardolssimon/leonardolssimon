@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **machine learning**
 
-- 💬 Ask me about **C, python, machine learning**
+- 💬 Ask me about **C, python, machine learning, embedded systems**
 
 - 📫 How to reach me **leonardo.luisimon@gmail.com**
 
